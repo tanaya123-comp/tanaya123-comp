@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React
 
-- 🌱 I’m currently learning Machine Learning and Next.js
+- 🌱 I’m currently learning React Native
 
 - 💬 Ask me about React, Java and Django
 
