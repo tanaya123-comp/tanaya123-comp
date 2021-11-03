@@ -31,9 +31,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-
- <img align="right"  width="410" src="https://github-readme-stats.vercel.app/api?username=tanaya123-comp&show_icons=true&theme=radical&count_private=true" alt="Tanaya's GitHub stats"/>
+ <img align="right"  width="410" src="https://github-readme-stats.vercel.app/api?username=tanaya123-comp&show_icons=true&theme=radical&count_private=true" alt="Tanaya's GitHub stats"/>&nbsp;&nbsp;&nbsp;
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaya123-comp&theme=radical" alt="tanaya123-comp" width="410"/>
 
 
